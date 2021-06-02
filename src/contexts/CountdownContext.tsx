@@ -13,7 +13,7 @@ type CountdownContextData = {
 
 export const CountdownContext = createContext({} as CountdownContextData)
 
-const tempoInicial = 0.1 //25 minutos
+const tempoInicial = parseFloat(process.env.NEXT_PUBLIC_INTERVALO_TEMPO); // 0.1 //25 minutos
 
 let timeout: NodeJS.Timeout
 
