@@ -8,9 +8,9 @@
 * [Contato](#email-contato)
 
 ## Sobre o projeto
-Aplicativo de incentivo à prática de exercícios.\n
-Ele gerencia o tempo, utilizando o método pomodoro, dividindo o trabalho em períodos de 25 minutos.\n
-Ao término de cada período, o aplicativo sugere um exercíco.\n
+Aplicativo de incentivo à prática de exercícios.<br/>
+Ele gerencia o tempo, utilizando o método pomodoro, dividindo o trabalho em períodos de 25 minutos.<br/>
+Ao término de cada período, o aplicativo sugere um exercíco.<br/>
 Conforme vai fazendo os exercícios, vai ganhando pontos.
 
 ## :hammer_and_wrench: Tecnologias
